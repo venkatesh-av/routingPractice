@@ -1,0 +1,19 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dis-flex {
+  display: flex;
+  align-items: center;
+}
+
+.wave-logo {
+  width: 30px;
+  height: 30px;
+}
+
+.paragraph-element {
+  margin-left: 20px;
+  font-weight: bold;
+}
